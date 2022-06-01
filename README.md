@@ -2,13 +2,14 @@
 ---
 
 <p align="center">
-  <img width="92" src="/img/rascar.png" />
+    <img width="92" src="img/mr-postman.png"> 
+    ![image](img/mr-postman.png)
 </p>  
-<h2 align="center">Hi there 👋, I'm MrPostman!</h2>
+<h2 align="center">Hi there 👋, I'm Mr Postman !</h2>
 
 ## Presentation
 
-![Top Langs Rascar](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPostman-git&title_color=000000&)
+![Top Langs Postman](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPostman-git&title_color=000000&)
 
 ## Repos
 <!--
