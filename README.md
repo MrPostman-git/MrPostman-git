@@ -2,8 +2,7 @@
 ---
 
 <p align="center">
-    <img width="92" src="img/mr-postman.png"> 
-    ![image](img/mr-postman.png)
+    <img width="92" src="img/mr-postman.png">  
 </p>  
 <h2 align="center">Hi there 👋, I'm Mr Postman !</h2>
 
