@@ -14,8 +14,7 @@
 <!--
 add all repo link 
 -->
-[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=RascarKapHack&repo=ChatBox&show_owner=true)](https://github.com/RascarKapHack/ChatBox)
-[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=iTrofa&repo=OmegaVirus&show_owner=true)](https://github.com/iTrofa/OmegaVirus)
+[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=MrPostman-git&repo=PowerShell-admin-scripts&show_owner=true)](https://github.com/MrPostman-git/PowerShell-admin-scripts.git)
 ---
 
 ## **Languages and Tools:**  
